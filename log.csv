@@ -1,0 +1,273 @@
+" Move Out Sale Pick up in EVGR B
+
+Contact: 815-474-7120, 
+
+
+Venmo:@Massimo-Onesto",,,monesto@stanford.edu
+" Item: TCL - 40"" Class 3-Series LED Full HD Smart Roku TV
+
+ 
+
+Condition: Like-new, needs replacement remote (~$5-10)
+
+Original Price: $220
+
+Sale Price: $100
+
+ Pending","<re.Match object; span=(363, 365), match='$5'>",,monesto@stanford.edu
+" Item: Breville Smart Oven with Convection
+
+ 
+
+Condition: Good
+
+Original Price: $220
+
+Sale Price: $110
+
+","<re.Match object; span=(401, 405), match='$220'>",https://www.williams-sonoma.com/products/breville-smart-convection-oven/?catalogId=79&sku=6926232&cm_ven=PLA&cm_cat=Google&cm_pla=Electrics%20%3E%20Toasters%20%26%20Toaster%20Ovens&region_id=820120&cm_ite=6926232_14571727863&gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDLUlhyg0RrqbRssv9KRc6zVefG6Pxqg5ntDSVAfcCkolKB-1X7A0ZAaAnaAEALw_wcB,monesto@stanford.edu
+" Item: Homall L-Shaped Computer Desk Modern Corner Desk with Small Table - N/A - Brown
+
+ 
+
+Condition: Like-new
+
+Original Price: $100
+
+Sale Price: $50
+
+","<re.Match object; span=(390, 394), match='$100'>",https://www.overstock.com/Home-Garden/Tables/18552/subcat.html?featuredproduct=35458386&featuredoption=68009784&ci_sku=39607994-000-001&cnc=US&cid=317140&track=pspla&gclid=Cj0KCQjw2_OWBhDqARIsAAUNTTHPI5QdWSWWzyKSbkRHkpVlWBrqT-Z7emrkVyVRpHklyCww5onZ-94aApyQEALw_wcB,monesto@stanford.edu
+" Item: Liberty 43 in. Rustic Brown and White TV Stand Fits TVs Up to 46 in. 
+
+ 
+
+Condition: Good
+
+Original Price: $100
+
+Sale Price: $40
+
+","<re.Match object; span=(272, 276), match='$100'>",https://www.homedepot.com/p/Manhattan-Comfort-Liberty-43-in-Rustic-Brown-and-White-Composite-TV-Stand-Fits-TVs-Up-to-46-in-with-Storage-Doors-212BMC96/305467745,monesto@stanford.edu
+" Item: SUPERJARE Monitor Stand Riser, Adjustable Screen Stand for Laptop Computer/TV/PC
+
+ 
+
+Condition: Good
+
+Original Price: $33
+
+Sale Price: $10
+
+","<re.Match object; span=(215, 218), match='$33'>",https://www.amazon.com/gp/product/B07NPJZGVR/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&th=1,monesto@stanford.edu
+" Item: TaoTronics Soundbar 32-Inch Audio Speaker for TV, Wired and Wireless Bluetooth 5.0 
+
+ 
+
+Condition: Like-new
+
+Original Price: $56
+
+Sale Price: $30
+
+ Pending","<re.Match object; span=(316, 319), match='$56'>",,monesto@stanford.edu
+" Tray table (IKEA)
+Original price: $24.99
+Price: $3","<re.Match object; span=(34, 40), match='$24.99'>",,
+" BROOK’S MOVING SALE TEXT or EMAIL BROOK
+Stanford.edu
+Pick up @ EVGR D
+(707) 460-7377
+VENMO @Greatful-Native
+Updated July 2022",,,BMT@Stanford.edu
+" IKEA Light Blue Dinnerware Set(color discontinued) 4 bowls, 6 small plates, 5 large plates Original Price: $60
+ (Close not exactly)
+Asking Price: $15 $10
+(Was a 24 set, now 15)","<re.Match object; span=(16, 19), match='$60'>",,BMT@Stanford.edu
+" Acrylic Jewelry Box Set Original Price: $62 (for 3)
+  2
+Asking Price: $25 ","<re.Match object; span=(16, 19), match='$62'>",,BMT@Stanford.edu
+" Portable Travel Car Camping Inflatable Air Mattress with Pillow Fits Most Models (with pump) Original Price: $35.00 (no pillows)
+
+Asking Price: $25  $15 (Used once) ","<re.Match object; span=(16, 22), match='$35.00'>",,BMT@Stanford.edu
+" Comfier 2-in-1 Washable Foot Warmer and Heating Pad with Carrying Case Original Price: $37.00 
+
+Asking Price: $10  $5 (Used 1 year) The outside is machine washable and was just washed","<re.Match object; span=(16, 22), match='$37.00'>",,BMT@Stanford.edu
+" WOMEN'S CLOTHING XL Bikini Top Original Price: $24.00 
+Asking Price: $20 $5 (Never Worn) 
+","<re.Match object; span=(30, 36), match='$24.00'>",,BMT@Stanford.edu
+" Adjustable Over the Sink Dish Drainer FOR SALE  Original Price: $14.00 
+
+Asking Price: $10    $5  ","<re.Match object; span=(26, 32), match='$14.00'>",,BMT@Stanford.edu
+" Black & Decker Stainless Steel Toaster  Original Price: $30.00 
+Asking Price: $10","<re.Match object; span=(16, 22), match='$30.00'>",,BMT@Stanford.edu
+" Rice Cooker & Steamer 6 cups cooked (1.2L) Original Price: $30.00 
+
+Asking Price: $7","<re.Match object; span=(16, 22), match='$30.00'>",,BMT@Stanford.edu
+" Letsfit Bluetooth Earbuds FOR SALE  Original Price: $45.00 
+Asking Price: $10 ","<re.Match object; span=(26, 32), match='$45.00'>",,BMT@Stanford.edu
+" PETLIBRO Automatic Cat Feeder, Timed Cat Feeder with Desiccant Bag for Pet Dry Food, Programmable Portion Control 1-4 Meals per Day & 10s Voice Recorder for Cats and Dogs 4L/6L Original Price: $80.00 
+
+Asking Price: $50 (Like New) ","<re.Match object; span=(16, 22), match='$80.00'>",,BMT@Stanford.edu
+" All-Clad D3 Fry Lid, 10 Inch Pan, Dishwasher Safe Stainless Steel Cookware, Silver, 10-Inch Original Price: $100.00 
+
+Asking Price: $45","<re.Match object; span=(16, 23), match='$100.00'>",,BMT@Stanford.edu
+" NARUTO LEAF VILLAGE RUG, HYPLAND Original Price: $150.00 
+
+Asking Price: $75  $50 
+Apple on top pic for scale","<re.Match object; span=(16, 23), match='$150.00'>",,BMT@Stanford.edu
+" MISC CAT/DOG TOYS P1 FOR SALE Kicker Cat Toy with Catnip (Orange) Original Price: $10.17  
+Asking Price: $7 (never used)
+FOR SALE Food slow feeder (grey)  Original Price: $10
+Aking Price: $5  (Basically new)
+FOR SALE Fish Catnip  Kicker: $7  
+Asking Price: $5 (Basically new)
+FOR SALE Batting Toy (orange with feathers)
+Asking Price: $3","<re.Match object; span=(61, 67), match='$10.17'>",https://www.amazon.com/gp/product/B07DHV1F7Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1,BMT@Stanford.edu
+" Cordless Vacuum Cleaner Original Price: $60.00, clean, light weight, perfect for dorm room, bends to reach under bed & couch.
+ 
+Asking Price: $45","<re.Match object; span=(16, 22), match='$60.00'>",https://www.amazon.com/Shark-V2945Z-SWEEPER/dp/B00EF6HN7S/ref=sr_1_3?crid=14QCI03EB0QPJ&keywords=shark+cordless+vacuum+2+speed+v2945z&qid=1653334875&sprefix=shark+cordless+vacuum+2+speed+%2Caps%2C120&sr=8-3,BMT@Stanford.edu
+" PERFUME: L'INTERDIT EAU DE TOILETTE Original Price: $80 50 ml  
+Asking Price: $60 [Almost Full, Smells great & long lasting. Selling  because an ex bought it for me] ","<re.Match object; span=(16, 19), match='$80'>",https://www.givenchybeauty.com/us/p/l-interdit-F10100125.html?dwvar_F10100125_size=35ml&gclid=Cj0KCQjwmPSSBhCNARIsAH3cYgbaKZpCb6pYDmrBlWSe06rrUB2QM0y_-exghfgdwuJ0zFCRpKd67HMaAjyzEALw_wcB&gclsrc=aw.ds,BMT@Stanford.edu
+" PET TOYS P2 FOR SALE Small Pet Bed  (Orange) Original Price: $13.00  
+Asking Price: $5 (cat outgrew) also good for bearded dragon, guinea pig, kitten,  ferret, etc.
+FOR SALE Small lick mat (green)  Original Price: $8
+ 
+Asking Price: $5  (gently used)
+FOR SALE Very Small pet Pumpkin Outfit Original Price $13 
+Girth 15-16 in, Head to Tail 7-8 in
+Asking Price: $2 (Used once) good for bearded dragon, guinea pig, ferret, kitten, etc","<re.Match object; span=(49, 55), match='$13.00'>",https://www.petsmart.com/small-pet/toys-and-habitat-accessories/tunnels-and-hideouts/full-cheeks-small-pet-chevron-cuddler-bed-68322.html,BMT@Stanford.edu
+" PET TOYS P3: 3 TIER CAT TREE MWPO 63.8 inches Multi-Level Cat Tree  with Sisal-Covered Scratching Posts, Padded Platform, Hammock and Condo, and Stable Cat Tower Cat Condo Pet Play House
+Original Price: $80
+ 
+Asking Price: $65 OBO (Barely Used, No Hair or smell, Already Assembled) My cat doesn't like it as much as their other spaces and I am moving to a smaller space. Fits well in EVGR","<re.Match object; span=(174, 177), match='$80'>",https://www.amazon.com/gp/product/B08KFXV74T/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1,BMT@Stanford.edu
+" DELUXE TRUNK MOUNTED BIKE RACK FOR SALE  Original Price: $60.00  
+Asking Price: $35 (New & Unused) My bike is a weird artistic shape and does not fit.","<re.Match object; span=(26, 32), match='$60.00'>",https://www.amazon.com/gp/product/B00TRTSAZM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1,BMT@Stanford.edu
+" Strapless Bra FOR SALE XL Bikini Top Original Price: $60, paid $31.95, worn only once (It is too small for me). Adjustable. 
+ 
+Asking Price: $20 
+","<re.Match object; span=(39, 42), match='$60'>",https://liftbra.co/products/strapless-bra?variant=37302328623269,BMT@Stanford.edu
+" Car Vacuum Cleaner Original Price: $27.00 , new filter installed
+ 
+Asking Price: $15","<re.Match object; span=(16, 22), match='$27.00'>",https://www.amazon.com/gp/product/B07CZWT9BT/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1,BMT@Stanford.edu
+" Move-out Sale  
+PICK UP IN EVGR B
+
+Prices indicated OBO
+
+Alt email: 
+ Venmo/Bank Transfers only 
+
+(GBP/SGD transfers possible too!)",,,junhongt@alumni.stanford.edu
+" Item: Monitor
+
+Original price: $163.67
+Sale price: $90 (OBO!)
+Excellent condition, used for about half a year
+","<re.Match object; span=(128, 135), match='$163.67'>",,junhongt@alumni.stanford.edu
+" Item: Hairdryer
+Original price: $22
+Sale price: $15
+
+Used for about under a min/day - excellent condition; comes with a few other contraptions
+","<re.Match object; span=(32, 35), match='$22'>",,junhongt@alumni.stanford.edu
+" Item: Laptop cover
+Original price: $20
+Sale price: $5
+
+Never used.","<re.Match object; span=(35, 38), match='$20'>",,junhongt@alumni.stanford.edu
+" Item: Pillows x 2
+(Uttu Sandwich Pillows)
+Original price: ~$20 ea
+Sale price: $5 ea
+
+As good as new. Never used without a cover.
+","<re.Match object; span=(59, 62), match='$20'>",,junhongt@alumni.stanford.edu
+" Item: Assorted dishware and cutlery
+
+Original price: Bowls x 4 ($5 ea); Forks and Spoons x 4 + 1 knife (~$10 total); Cups x 6 ($4 ea)
+
+Sale price: $10 (for all)
+","<re.Match object; span=(64, 66), match='$5'>",,junhongt@alumni.stanford.edu
+" Item: Fan
+Original price: ~$30
+Sale price: $15
+
+
+
+","<re.Match object; span=(27, 30), match='$30'>",,junhongt@alumni.stanford.edu
+" Item: Headset
+Original price: ~$20
+Sale price: $5
+
+Never used; maybe handy as a backup","<re.Match object; span=(31, 34), match='$20'>",,junhongt@alumni.stanford.edu
+" Item: Electric Kettle
+Original price: $25
+Sale price: $5
+
+Still working very well
+","<re.Match object; span=(38, 41), match='$25'>",,junhongt@alumni.stanford.edu
+" Item: Microwave Oven
+Original price: $65
+
+Sale price: $30
+
+A scorch mark at the back of the oven (oops) but 0 impact on functionality.  
+(RESERVED) 
+","<re.Match object; span=(37, 40), match='$65'>",,junhongt@alumni.stanford.edu
+" Item: Shoe Rack 
+Original price: ~$22
+Sale price: $10
+
+Already assembled - holds ~20 pairs of shoes.
+(RESERVED) ","<re.Match object; span=(34, 37), match='$22'>",,junhongt@alumni.stanford.edu
+" Item: Monitor
+
+Original price: $190
+Sale price: $100 (OBO!)
+Excellent condition, spare screen that was mainly used during exams
+(SOLD)","<re.Match object; span=(106, 110), match='$190'>",,junhongt@alumni.stanford.edu
+" Item: Clothes rack
+Original price: $36
+Sale price: $12
+
+Will throw in clothes hangers too
+(SOLD)","<re.Match object; span=(35, 38), match='$36'>",,junhongt@alumni.stanford.edu
+" Item: Eureka Blaze 3-in-1 Swivel Lightweight Stick Vacuum
+Original price: ~$32
+Sale price: $15
+Used every now and then.
+(SOLD) ","<re.Match object; span=(75, 78), match='$32'>",,junhongt@alumni.stanford.edu
+" Item: Potted Succulent Plant 
+Original price: ~$15
+Sale price: $5
+Good vibes. Be a plant parent! 
+
+Open to giving this away along with purchase of monitor. 
+(SOLD) ","<re.Match object; span=(47, 50), match='$15'>",,junhongt@alumni.stanford.edu
+" Item: Monitor Stand
+Original price: $20
+Sale price: $10
+
+Great height so you can have the laptop right below the screen if that’s a config u like.
+
+Open to giving this away along with purchase of monitor.  
+(SOLD) 
+","<re.Match object; span=(36, 39), match='$20'>",,junhongt@alumni.stanford.edu
+" Item: Long Pillow
+(Utopia Bedding Soft Body Pillow - Long Pillows for Side and Back Sleepers - Cotton Blend Cover with Soft Polyester Filling (20x54 Inch))
+Original price: ~$22
+Sale price: $5
+A bolster of sorts - pretty comforting.  Never used without a cover.
+(SOLD) ","<re.Match object; span=(173, 176), match='$22'>",,junhongt@alumni.stanford.edu
+" Item: Foldable desk lamp with 3 settings
+Original price: ~$17
+Sale price: $8
+
+Great for extra lighting; must-have for EVGR desks
+(SOLD)","<re.Match object; span=(58, 61), match='$17'>",,junhongt@alumni.stanford.edu
+" Item: Non-slip Doormat
+Original price: $10
+Sale price: $5
+
+Barely used
+(SOLD) ","<re.Match object; span=(39, 42), match='$10'>",,junhongt@alumni.stanford.edu
