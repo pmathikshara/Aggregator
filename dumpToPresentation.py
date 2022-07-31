@@ -3,7 +3,9 @@ import google.auth
 import os
 import os.path
 import re
+import gspread
 
+from oauth2client.service_account import ServiceAccountCredentials
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -53,27 +55,40 @@ def dumpToPresentation():
             print('No data found.')
             return
 
-        for row in values:
-            parsedHTML = BeautifulSoup(row[4], 'html.parser')
-            for link in parsedHTML.find_all('a'):
-                if(link.get('href').find("docs.google.com") >= 0):
-                    start_index = link.get('href').find("/d/") + 3
-                    end_index = (link.get('href')[start_index:]).find("/")
-                    ID = link.get('href')[start_index:][:end_index]
-                    values = [
-                        [
-                            row[5], ID
-                        ]
-                    ]
-                    body = {
-                        'values': values
-                    }
-                    result = service.spreadsheets().values().append(
-                        spreadsheetId=Slides_DB, range="A1:B1",
-                        valueInputOption="USER_ENTERED", body=body).execute()
-                    print(
-                        f"{(result.get('updates').get('updatedCells'))} cells appended.")
-                    os.system("python3 ParsePresentation.py " + ID)
+        scope = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/spreadsheets',
+                 "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
+        creds = ServiceAccountCredentials.from_json_keyfile_name(
+            "/Users/mathikshara/Documents/Work/Scraping/the-sandbox-357506-457186fbf5da.json", scope)
+        client = gspread.authorize(creds)
+        sheet = client.open_by_key(
+            Slides_DB).sheet1
+
+        try:
+            for row in values:
+                parsedHTML = BeautifulSoup(row[4], 'html.parser')
+                for link in parsedHTML.find_all('a'):
+                    if(link.get('href').find("docs.google.com") >= 0):
+                        start_index = link.get('href').find("/d/") + 3
+                        end_index = (link.get('href')[start_index:]).find("/")
+                        ID = link.get('href')[start_index:][:end_index]
+
+                        if(sheet.find(ID) == None):
+                            values = [
+                                [
+                                    row[5], ID
+                                ]
+                            ]
+                            body = {
+                                'values': values
+                            }
+                            result = service.spreadsheets().values().append(
+                                spreadsheetId=Slides_DB, range="A1:B1",
+                                valueInputOption="USER_ENTERED", body=body).execute()
+                            print(
+                                f"{(result.get('updates').get('updatedCells'))} cells appended.")
+                            os.system("python3 ParsePresentation.py " + ID)
+        except:
+            print("No HTML or No Link")
     except HttpError as err:
         print(err)
 
